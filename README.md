@@ -8,31 +8,43 @@ Gradient colors based on repository languages to use in marknown README's.
 ## Usage
 
 ```md
-![facebook/react](https://apps.minodo.com.br/languages-gradient/?owner=facebook&repo=react)
+![facebook/react](https://minodo.com.br/lg/?owner=facebook&repo=react)
+```
+
+```html
+<img alt="facebook/react" src="https://minodo.com.br/lg/?owner=facebook&repo=react" width="100%" />
 ```
 
 ## Examples
 
-facebook/react
+[facebook/react](https://github.com/facebook/react)
 
-![facebook/react](https://apps.minodo.com.br/languages-gradient/?owner=facebook&repo=react)
+<img alt="facebook/react" src="https://minodo.com.br/lg/?owner=facebook&repo=react" width="100%" />
 
-facebook/react-native
+[facebook/react-native](https://github.com/facebook/react-native)
 
-![facebook/react-native](https://apps.minodo.com.br/languages-gradient/?owner=facebook&repo=react-native)
+<img alt="facebook/react-native" src="https://minodo.com.br/lg/?owner=facebook&repo=react-native" width="100%" />
 
-angular/angular
+[angular/angular](https://github.com/angular/angular)
 
-![angular/angular](https://apps.minodo.com.br/languages-gradient/?owner=angular&repo=angular)
+<img alt="angular/angular" src="https://minodo.com.br/lg/?owner=angular&repo=angular" width="100%" />
 
-sveltejs/svelte
+[sveltejs/svelte](https://github.com/sveltejs/svelte)
 
-![sveltejs/svelte](https://apps.minodo.com.br/languages-gradient/?owner=sveltejs&repo=svelte)
+<img alt="sveltejs/svelte" src="https://minodo.com.br/lg/?owner=sveltejs&repo=svelte" width="100%" />
 
-symfony/symfony
+[symfony/symfony](https://github.com/symfony/symfony)
 
-![symfony/symfony](https://apps.minodo.com.br/languages-gradient/?owner=symfony&repo=symfony)
+<img alt="symfony/symfony" src="https://minodo.com.br/lg/?owner=symfony&repo=symfony" width="100%" />
 
-laravel/laravel
+[laravel/laravel](https://github.com/laravel/laravel)
 
-![laravel/laravel](https://apps.minodo.com.br/languages-gradient/?owner=laravel&repo=laravel)
+<img alt="laravel/laravel" src="https://minodo.com.br/lg/?owner=laravel&repo=laravel" width="100%" />
+
+## License
+
+[MIT license](./LICENSE.txt)
+
+## Credits/Thanks
+
+-   [github-linguist/linguist](https://github.com/github-linguist/linguist)
