@@ -8,38 +8,38 @@ Gradient colors based on repository languages to use in marknown README's.
 ## Usage
 
 ```md
-![facebook/react](https://minodo.com.br/lg/?owner=facebook&repo=react)
+![facebook/react](https://languages-gradient.wasmer.app?owner=facebook&repo=react)
 ```
 
 ```html
-<img alt="facebook/react" src="https://minodo.com.br/lg/?owner=facebook&repo=react" width="100%" />
+<img alt="facebook/react" src="https://languages-gradient.wasmer.app?owner=facebook&repo=react" width="100%" />
 ```
 
 ## Examples
 
 [facebook/react](https://github.com/facebook/react)
 
-<img alt="facebook/react" src="https://minodo.com.br/lg/?owner=facebook&repo=react" width="100%" />
+<img alt="facebook/react" src="https://languages-gradient.wasmer.app?owner=facebook&repo=react" width="100%" />
 
 [facebook/react-native](https://github.com/facebook/react-native)
 
-<img alt="facebook/react-native" src="https://minodo.com.br/lg/?owner=facebook&repo=react-native" width="100%" />
+<img alt="facebook/react-native" src="https://languages-gradient.wasmer.app?owner=facebook&repo=react-native" width="100%" />
 
 [angular/angular](https://github.com/angular/angular)
 
-<img alt="angular/angular" src="https://minodo.com.br/lg/?owner=angular&repo=angular" width="100%" />
+<img alt="angular/angular" src="https://languages-gradient.wasmer.app?owner=angular&repo=angular" width="100%" />
 
 [sveltejs/svelte](https://github.com/sveltejs/svelte)
 
-<img alt="sveltejs/svelte" src="https://minodo.com.br/lg/?owner=sveltejs&repo=svelte" width="100%" />
+<img alt="sveltejs/svelte" src="https://languages-gradient.wasmer.app?owner=sveltejs&repo=svelte" width="100%" />
 
 [symfony/symfony](https://github.com/symfony/symfony)
 
-<img alt="symfony/symfony" src="https://minodo.com.br/lg/?owner=symfony&repo=symfony" width="100%" />
+<img alt="symfony/symfony" src="https://languages-gradient.wasmer.app?owner=symfony&repo=symfony" width="100%" />
 
 [laravel/laravel](https://github.com/laravel/laravel)
 
-<img alt="laravel/laravel" src="https://minodo.com.br/lg/?owner=laravel&repo=laravel" width="100%" />
+<img alt="laravel/laravel" src="https://languages-gradient.wasmer.app?owner=laravel&repo=laravel" width="100%" />
 
 ## License
 
